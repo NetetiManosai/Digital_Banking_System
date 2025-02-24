@@ -1,6 +1,6 @@
 # Digital_Banking_System
 
-{**Use Master Branch to Insight Our Implementation of This Project**}
+{**View Master Branch to Insight Our Implementation of This Project**}
 
 Project_Background:-
 
